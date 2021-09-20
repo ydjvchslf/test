@@ -4,4 +4,4 @@ add
 add something2
 edited in local
 
-#왜안되는거야
+서버에서 
